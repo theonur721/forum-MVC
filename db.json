@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "user": "Mehmet",
+      "title": "React MVC Patern(Mimari)",
+      "text": "MVC mimari işe nasıl bileşenleri yönetirim?",
+      "date": "2025-09-15T13:54:47.133Z"
+    },
+    {
+      "id": "2",
+      "date": "2025-09-15T13:54:47.133Z",
+      "user": "Eslem",
+      "title": "React MVVM Paterni",
+      "text": "Bu nedir?"
+    },
+    {
+      "id": "e2085f16-ec90-4f8a-a27e-3009023308b4",
+      "date": "2025-09-15T13:54:47.133Z",
+      "title": "React 404",
+      "text": "Bu sorunu nasıl çözeriz?",
+      "user": "Adem"
+    },
+    {
+      "id": "550f9ee1-e6a3-4111-a857-17f3c3b2b4cd",
+      "date": "2025-09-16T07:18:46.371Z",
+      "title": "MVVM mimarisi nasıl yapılır?",
+      "text": "bu konuda yardıma ihtiyacım var acil!!!",
+      "user": "Mehmet"
+    }
+  ]
+}
