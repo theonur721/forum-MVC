@@ -41,4 +41,3 @@
 ## 🎥 Ekran Görüntüsü / Gif
 
 ![](src/assets/ekran.gif)
-# forum-MVC
